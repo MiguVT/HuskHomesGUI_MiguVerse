@@ -33,7 +33,7 @@ dependencies {
     compileOnly 'org.jetbrains:annotations:24.1.0'
     compileOnly 'net.william278:huskhomes:4.6.2'
 
-    implementation 'de.themoep:inventorygui:1.6.1-SNAPSHOT'
+    implementation 'de.themoep:inventorygui:1.6.2-SNAPSHOT'
     implementation 'org.apache.commons:commons-text:1.11.0'
     implementation 'de.themoep:minedown-adventure:1.7.2-SNAPSHOT'
     implementation 'net.kyori:adventure-text-serializer-legacy:4.16.0'
